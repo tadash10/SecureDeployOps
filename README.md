@@ -1,5 +1,5 @@
 # SecureDeployOps!
-![My Image](securedeployops.jpg)
+
 
 
 SecureDeployOps is a DevSecOps GitHub repository that contains scripts, tools, and resources for ensuring secure and efficient deployment of software projects. It includes an Infrastructure as Code script for automating the deployment and configuration of project infrastructure, as well as an Automated Testing script for ensuring that the project code meets security requirements and doesn't introduce any new vulnerabilities.
