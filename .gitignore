@@ -1,0 +1,24 @@
+# Compiled Python files
+*.pyc
+
+# Compiled C extensions
+*.so
+
+# Python bytecode
+__pycache__/
+
+# Dependency directories
+env/
+venv/
+node_modules/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE generated files
+.idea/
+.vscode/
